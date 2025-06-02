@@ -1,0 +1,49 @@
+[
+   {
+      "title":"Tiêu đề",
+      "icon":"https://placehold.co/160x112/png?text=Icon+1",
+      "iconWidth":160,
+      "iconHeight":112,
+      "tag":"mediafire",
+      "link":"https://google.com"
+   },
+   {
+      "title":"Tiêu đề rất dài không được tràn ra ngoài nút",
+      "icon":"https://placehold.co/120x90/png?text=Icon+2",
+      "iconWidth":120,
+      "iconHeight":90,
+      "tag":"modrinth",
+      "link":"https://google.com"
+   },
+   {
+      "title":"Tiêu đề",
+      "icon":"https://placehold.co/140x100/png?text=Icon+3",
+      "iconWidth":140,
+      "iconHeight":100,
+      "tag":"googledrive",
+      "link":"https://google.com"
+   },
+   {
+      "title":"Tiêu đề",
+      "icon":"https://placehold.co/160x112/png?text=Icon+4",
+      "iconWidth":160,
+      "iconHeight":112,
+      "link":"https://google.com"
+   },
+   {
+      "title":"Tiêu đề thêm 1",
+      "icon":"https://placehold.co/130x95/png?text=Icon+5",
+      "iconWidth":130,
+      "iconHeight":95,
+      "tag":"mediafire",
+      "link":"https://google.com"
+   },
+   {
+      "title":"Tiêu đề thêm 2",
+      "icon":"https://placehold.co/160x112/png?text=Icon+6",
+      "iconWidth":160,
+      "iconHeight":112,
+      "tag":"modrinth",
+      "link":"https://google.com"
+   }
+]
