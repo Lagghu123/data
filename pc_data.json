@@ -1,6 +1,16 @@
 [
     {
         "title": "Xaero's Minimap",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/1bokaNcj\/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "",
+        "link": "https:\/\/modrinth.com\/mod\/xaeros-minimap",
+        "tag": "modrinth",
+        "type": "pc"
+    },
+    {
+        "title": "Xaero's Minimap",
         "iconLink": "https:\/\/cdn.modrinth.com\/data\/1bokaNcj\/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
         "version": "",
         "downloadLink": "https:\/\/modrinth.com\/mod\/xaeros-minimap",
