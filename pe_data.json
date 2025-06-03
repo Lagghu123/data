@@ -43,5 +43,13 @@
         "tag": "mediafire",
         "ver": "mc 1.21+",
         "link": "https:\/\/www.mediafire.com\/file\/xrkfwg8cjhnnl8k\/No-particles-MAX-FPS_1603239504.mcpack\/file"
+    },
+    {
+        "title": "New",
+        "iconLink": "Hi",
+        "version": "50",
+        "downloadLink": "dl",
+        "linkType": "mediafire",
+        "type": "pe"
     }
 ]
