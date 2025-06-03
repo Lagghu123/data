@@ -1,34 +1,42 @@
 [
-  {
-    "title": "Traveler's Titles",
-    "icon": "https://cdn.modrinth.com/data/JtifUr64/e7743f2d78a52a1af0ebe5aacbfa940094c63dff_96.webp",
-    "iconWidth": 160,
-    "iconHeight": 130,
-    "tag": "modrinth",
-    "link": "https://modrinth.com/mod/travelers-titles"
-  },
-  {
-    "title": "Overflowing Bars",
-    "icon": "https://cdn.modrinth.com/data/XD7XOrAF/6ddcbd311d5caae678cb6df60b4d064724088869_96.webp",
-    "iconWidth": 160,
-    "iconHeight": 130,
-    "tag": "modrinth",
-    "link": "https://modrinth.com/mod/overflowing-bars"
-  },
-  {
-    "title": "Hold my items",
-    "icon": "https://cdn.modrinth.com/data/AP8rDDLS/6afdd3e14429db03d4fc05d237125006855ecf6b_96.webp",
-    "iconWidth": 160,
-    "iconHeight": 130,
-    "tag": "modrinth",
-    "link": "https://modrinth.com/mod/hold-my-items"
-  },
-  {
-    "title": "Sodium",
-    "icon": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-    "iconWidth": 160,
-    "iconHeight": 130,
-    "tag": "modrinth",
-    "link": "https://modrinth.com/mod/sodium"
-  }
+    {
+        "title": "Traveler's Titles",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/JtifUr64\/e7743f2d78a52a1af0ebe5aacbfa940094c63dff_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "tag": "modrinth",
+        "link": "https:\/\/modrinth.com\/mod\/travelers-titles"
+    },
+    {
+        "title": "Overflowing Bars",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/XD7XOrAF\/6ddcbd311d5caae678cb6df60b4d064724088869_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "tag": "modrinth",
+        "link": "https:\/\/modrinth.com\/mod\/overflowing-bars"
+    },
+    {
+        "title": "Hold my items",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/AP8rDDLS\/6afdd3e14429db03d4fc05d237125006855ecf6b_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "tag": "modrinth",
+        "link": "https:\/\/modrinth.com\/mod\/hold-my-items"
+    },
+    {
+        "title": "Sodium",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/AANobbMI\/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "tag": "modrinth",
+        "link": "https:\/\/modrinth.com\/mod\/sodium"
+    },
+    {
+        "title": "New",
+        "iconLink": "Hi",
+        "version": "50",
+        "downloadLink": "dl",
+        "linkType": "mediafire",
+        "type": "pc"
+    }
 ]
