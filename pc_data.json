@@ -1,5 +1,15 @@
 [
     {
+        "title": "Detailed Animations",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/9pR04wDX\/8ea03a4f5ea07a8127a0be3f32966cb1957b461e_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "resoupack",
+        "link": "https:\/\/modrinth.com\/resourcepack\/detailed-animations",
+        "tag": "modrinth",
+        "type": "pc"
+    },
+    {
         "title": "Nicer Skies",
         "icon": "https:\/\/cdn.modrinth.com\/data\/gsJ6q45e\/c5f78a6483473fd1640ae67b91eba694ae50090d_96.webp",
         "iconWidth": 160,
