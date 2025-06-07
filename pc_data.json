@@ -1,10 +1,20 @@
 [
     {
+        "title": "Detailed Animations",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/9pR04wDX\/8ea03a4f5ea07a8127a0be3f32966cb1957b461e_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "resoupack",
+        "link": "https:\/\/modrinth.com\/resourcepack\/detailed-animations",
+        "tag": "modrinth",
+        "type": "pc"
+    },
+    {
         "title": "Entity Model Features",
         "icon": "https:\/\/raw.githubusercontent.com\/Traben-0\/Entity_Model_Features\/master\/fabric\/src\/main\/resources\/icon.png",
         "iconWidth": 160,
         "iconHeight": 130,
-        "ver": "resoupack",
+        "ver": "",
         "link": "https:\/\/modrinth.com\/mod\/entity-model-features",
         "tag": "modrinth",
         "type": "pc"
@@ -16,16 +26,6 @@
         "iconHeight": 130,
         "ver": "",
         "link": "https:\/\/modrinth.com\/mod\/entitytexturefeatures",
-        "tag": "modrinth",
-        "type": "pc"
-    },
-    {
-        "title": "Detailed Animations",
-        "icon": "https:\/\/cdn.modrinth.com\/data\/9pR04wDX\/8ea03a4f5ea07a8127a0be3f32966cb1957b461e_96.webp",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "ver": "resoupack",
-        "link": "https:\/\/modrinth.com\/resourcepack\/detailed-animations",
         "tag": "modrinth",
         "type": "pc"
     },
