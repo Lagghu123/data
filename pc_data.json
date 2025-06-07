@@ -1,5 +1,15 @@
 [
     {
+        "title": "Entity Model Features",
+        "icon": "https:\/\/raw.githubusercontent.com\/Traben-0\/Entity_Model_Features\/master\/fabric\/src\/main\/resources\/icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "resoupack",
+        "link": "https:\/\/modrinth.com\/mod\/entity-model-features",
+        "tag": "modrinth",
+        "type": "pc"
+    },
+    {
         "title": "Entity Texture Features",
         "icon": "https:\/\/cdn.modrinth.com\/data\/BVzZfTc1\/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
         "iconWidth": 160,
