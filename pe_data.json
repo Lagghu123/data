@@ -10,16 +10,6 @@
         "type": "pe"
     },
     {
-        "title": "fff",
-        "icon": "ff",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "ver": "ff",
-        "link": "f",
-        "tag": "modrinth",
-        "type": "pe"
-    },
-    {
         "title": "Evolving Mobs",
         "icon": "https:\/\/i.postimg.cc\/L5HyDDxP\/cover-art.png",
         "iconWidth": 160,
@@ -93,13 +83,5 @@
         "tag": "mediafire",
         "ver": "mc 1.21+",
         "link": "https:\/\/www.mediafire.com\/file\/xrkfwg8cjhnnl8k\/No-particles-MAX-FPS_1603239504.mcpack\/file"
-    },
-    {
-        "title": "New",
-        "iconLink": "Hi",
-        "version": "50",
-        "downloadLink": "dl",
-        "linkType": "mediafire",
-        "type": "pe"
     }
 ]
