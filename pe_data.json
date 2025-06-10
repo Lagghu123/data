@@ -1,7 +1,17 @@
 [
     {
+        "title": "fff",
+        "icon": "ff",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "ff",
+        "link": "f",
+        "tag": "modrinth",
+        "type": "pe"
+    },
+    {
         "title": "Evolving Mobs",
-        "icon": "https://i.postimg.cc/L5HyDDxP/cover-art.png",
+        "icon": "https:\/\/i.postimg.cc\/L5HyDDxP\/cover-art.png",
         "iconWidth": 160,
         "iconHeight": 130,
         "ver": "v2.0",
