@@ -1,5 +1,15 @@
 [
     {
+        "title": "Pat Pat",
+        "icon": "https:\/\/cdn.modrinth.com\/data\/dw7LChq9\/125417ed34406a044dd53fdf9a7fdfe210a6fcf0_96.webp",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "ver": "",
+        "link": "https:\/\/modrinth.com\/plugin\/patpat",
+        "tag": "modrinth",
+        "type": "pc"
+    },
+    {
         "title": "Enchantment Outline",
         "icon": "https:\/\/cdn.modrinth.com\/data\/jkvjEM8B\/1589dad08f0235f1048408b0e4a83d524a069cb8_96.webp",
         "iconWidth": 160,
