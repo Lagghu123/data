@@ -87,10 +87,10 @@
   },
   "pe-item-006": {
     "title": "Detailed Player Animations",
-    "category": "Resoupacks",
+    "category": "Resourcepacks",
     "versions": [
       {
-        "ver": "MC 1.14+",
+        "ver": "MC 1.15+",
         "icon": "https://i.postimg.cc/15r439xC/pack-icon.png",
         "iconWidth": 160,
         "iconHeight": 130,
