@@ -137,7 +137,7 @@
   },
   "pe-item-009": {
     "title": "Speed Boost Optifine",
-    "category": "Clients",
+    "category": "Fix lag",
     "versions": [
       {
         "ver": "mc 1.20+",
