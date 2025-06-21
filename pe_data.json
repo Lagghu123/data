@@ -176,5 +176,10 @@
         "tag": "mediafire"
       }
     ]
+  },
+  "pe-item-012": {
+    "title": "Test1",
+    "category": "Skins",
+    "versions": []
   }
 }
