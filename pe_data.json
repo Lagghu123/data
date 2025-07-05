@@ -164,7 +164,16 @@
   "pe-item-012": {
     "title": "Prizmavisuals",
     "category": "Resourcepacks",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.postimg.cc/MpzXRsrZ/pack-icon.png",
+        "iconWidth": 130,
+        "iconHeight": 160,
+        "link": "https://www.mediafire.com/file/yl42j40z2cyk928/❀PrizmaVis.zip/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-013": {
     "title": "hh",
