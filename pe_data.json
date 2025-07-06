@@ -192,6 +192,15 @@
   "pe-item-014": {
     "title": "Quar Dark",
     "category": "Resourcepacks",
-    "versions": []
+    "versions": [
+      {
+        "ver": "v9",
+        "icon": "https://i.ibb.co/V7ZxjdV/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/4np3tfagg6yqw3b/QUARDARKV9.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   }
 }
