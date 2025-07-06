@@ -174,5 +174,10 @@
         "tag": "mediafire"
       }
     ]
+  },
+  "pe-item-013": {
+    "title": "Test",
+    "category": "Mods",
+    "versions": []
   }
 }
