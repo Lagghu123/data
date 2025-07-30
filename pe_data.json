@@ -192,6 +192,15 @@
   "pe-item-015": {
     "title": "TheTy-el's",
     "category": "Addons",
-    "versions": []
+    "versions": [
+      {
+        "ver": "v1.2.4v",
+        "icon": "https://i.ibb.co/LhrBYVFy/1000349529.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1ySjLvlJPT7eE4jisTS0RYGQEVIEDrXt0/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   }
 }
