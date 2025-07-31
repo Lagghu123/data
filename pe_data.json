@@ -10,6 +10,14 @@
         "iconHeight": 130,
         "link": "https://drive.google.com/file/d/17NIj5XptHr1Vn_8WcqrnZSsexdJa1Ccs/view?usp=drivesdk",
         "tag": "googledrive"
+      },
+      {
+        "ver": "1.0.1 - world template",
+        "icon": "https://i.ibb.co/qLtHrGp4/world-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1da9qik4qfrk5b3ip_i9Zgw6lTXMPTPOC/view?usp=drivesdk",
+        "tag": "googledrive"
       }
     ]
   },
