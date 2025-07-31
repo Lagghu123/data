@@ -2,7 +2,16 @@
   "pe-item-016": {
     "title": "RL Craft",
     "category": "Addons",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.1",
+        "icon": "https://i.ibb.co/FbZLVB10/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/17NIj5XptHr1Vn_8WcqrnZSsexdJa1Ccs/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-001": {
     "title": "Tech Craft",
