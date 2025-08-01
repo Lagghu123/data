@@ -2,7 +2,16 @@
   "pe-item-017": {
     "title": "Elemental Weapons + Tools",
     "category": "Addons",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/dwqf7sWc/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/h9wr809cq5z9837/Elemental+Weapons+++Tools+(addon).mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-016": {
     "title": "RL Craft",
