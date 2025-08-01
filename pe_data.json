@@ -2,7 +2,16 @@
   "pe-item-018": {
     "title": "How to train your dragon",
     "category": "Addons",
-    "versions": []
+    "versions": [
+      {
+        "ver": "v3",
+        "icon": "",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1n47nQIAmWIKhA1e8SE1nDkyziWm-U4vQ/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-017": {
     "title": "Elemental Weapons + Tools",
