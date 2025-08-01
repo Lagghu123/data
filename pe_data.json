@@ -166,6 +166,14 @@
         "iconHeight": 130,
         "link": "https://www.mediafire.com/file/oekxwxdvioodxnb/actions+and+stuff+update+1.4.mcpack/file",
         "tag": "mediafire"
+      },
+      {
+        "ver": "v1.5",
+        "icon": "https://i.ibb.co/bMX5yFCw/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1e45e-7SWQoaDukSybprzzyJMKip8IpQK/view?usp=drivesdk",
+        "tag": "googledrive"
       }
     ]
   },
