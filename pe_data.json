@@ -2,7 +2,16 @@
   "pe-item-019": {
     "title": "Jenny mod",
     "category": "Addons",
-    "versions": []
+    "versions": [
+      {
+        "ver": "3.0.0",
+        "icon": "https://i.ibb.co/v4CgtTpy/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1HneT5DSgqVxShYfkhlDRg9B8qjP5umt4/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-018": {
     "title": "How to train your dragon",
