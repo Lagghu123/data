@@ -12,7 +12,16 @@
   "pe-item-020": {
     "title": "Newb x Ale v2 Renewed",
     "category": "Shaders",
-    "versions": []
+    "versions": [
+      {
+        "ver": "2.0.0",
+        "icon": "https://i.ibb.co/DPN6RLHf/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1bIsnGkWS2pxdiygQnTV32u0jNbndVF6_/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-019": {
     "title": "Jenny mod",
