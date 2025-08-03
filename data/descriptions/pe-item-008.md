@@ -1,0 +1,1 @@
+* Fix khựng 2s ở phiên bản 1.21.20+
