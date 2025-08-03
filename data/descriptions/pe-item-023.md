@@ -20,4 +20,4 @@
 * Bright minerals.
 * Luminous background.
 * Nether illuminated and Bright.
-* End similar to those of the Complementary shader
+* End similar to those of the Complementary shader..
