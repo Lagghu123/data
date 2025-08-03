@@ -2,7 +2,7 @@
   "pe-item-027": {
     "title": "Reflective Grass",
     "category": "Shaders",
-    "description": "hello",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.21.80+",
@@ -17,6 +17,7 @@
   "pe-item-026": {
     "title": "Glitch Water Config",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.21.80+",
@@ -31,6 +32,7 @@
   "pe-item-025": {
     "title": "Enchanced Fog",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.21.80+",
@@ -45,6 +47,7 @@
   "pe-item-024": {
     "title": "DéesseUIPa",
     "category": "Resourcepacks",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.1.0",
@@ -59,6 +62,7 @@
   "pe-item-023": {
     "title": "Newb x Dragon Complementary",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.2.7",
@@ -73,6 +77,7 @@
   "pe-item-022": {
     "title": "Velora shader",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.21+",
@@ -87,6 +92,7 @@
   "pe-item-021": {
     "title": "Sildurs Currently",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.21+",
@@ -101,6 +107,7 @@
   "pe-item-020": {
     "title": "Newb x Ale v2 Renewed",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "2.0.0",
@@ -115,6 +122,7 @@
   "pe-item-019": {
     "title": "Jenny mod",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "3.0.0",
@@ -129,6 +137,7 @@
   "pe-item-018": {
     "title": "How to train your dragon",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v3",
@@ -143,6 +152,7 @@
   "pe-item-017": {
     "title": "Elemental Weapons + Tools",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.0.0",
@@ -157,6 +167,7 @@
   "pe-item-016": {
     "title": "RL Craft",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.0.1",
@@ -179,6 +190,7 @@
   "pe-item-001": {
     "title": "Tech Craft",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.0.0",
@@ -193,6 +205,7 @@
   "pe-item-002": {
     "title": "Natural Disaster",
     "category": "Resourcepacks",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.0.0",
@@ -207,6 +220,7 @@
   "pe-item-003": {
     "title": "Warp Lamps",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v1.2",
@@ -221,6 +235,7 @@
   "pe-item-004": {
     "title": "Evolving Mobs",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v2.0",
@@ -235,6 +250,7 @@
   "pe-item-005": {
     "title": "Myth And Dragons",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v2.0",
@@ -249,6 +265,7 @@
   "pe-item-006": {
     "title": "Detailed Player Animations",
     "category": "Resourcepacks",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "MC 1.15+",
@@ -263,6 +280,7 @@
   "pe-item-007": {
     "title": "Newb x Stars Complementary",
     "category": "Shaders",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "mc 1.21.20+",
@@ -271,20 +289,13 @@
         "iconHeight": 130,
         "link": "https://www.mediafire.com/file/t49rsgo4x60uhmd/Newb+X+Stars+Complementary+-+Android+v1.21.20+.zip/fileE6%2597%25A7%25E7%2589%2588%25E6%25B8%25B2%25E6%259F%2593%25E5%2599%25A8.mcpack/file",
         "tag": "mediafire"
-      },
-      {
-        "ver": "2.0.0",
-        "icon": "",
-        "iconWidth": 130,
-        "iconHeight": 160,
-        "link": "Google.com",
-        "tag": "modrinth"
       }
     ]
   },
   "pe-item-008": {
     "title": "Fix frop fps",
     "category": "Fix lag",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "mc 1.21+",
@@ -299,6 +310,7 @@
   "pe-item-009": {
     "title": "Speed Boost Optifine",
     "category": "Fix lag",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "mc 1.20+",
@@ -313,6 +325,7 @@
   "pe-item-010": {
     "title": "Actions and stuff",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v1.4",
@@ -335,6 +348,7 @@
   "pe-item-011": {
     "title": "No Particles",
     "category": "Fix lag",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "mc 1.21+",
@@ -349,6 +363,7 @@
   "pe-item-012": {
     "title": "Prizmavisuals",
     "category": "Resourcepacks",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "1.0.0",
@@ -363,6 +378,7 @@
   "pe-item-014": {
     "title": "Quar Dark",
     "category": "Resourcepacks",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v9",
@@ -377,6 +393,7 @@
   "pe-item-015": {
     "title": "TheTy-el's",
     "category": "Addons",
+    "descriptionFile": "",
     "versions": [
       {
         "ver": "v1.2.4v",
