@@ -2,6 +2,7 @@
   "pe-item-027": {
     "title": "Reflective Grass",
     "category": "Shaders",
+    "description": "hello",
     "versions": [
       {
         "ver": "MC 1.21.80+",
