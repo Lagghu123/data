@@ -295,7 +295,7 @@
   "pe-item-008": {
     "title": "Fix frop fps",
     "category": "Fix lag",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-008.md",
     "versions": [
       {
         "ver": "mc 1.21+",
