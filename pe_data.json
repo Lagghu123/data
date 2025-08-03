@@ -7,7 +7,16 @@
   "pe-item-025": {
     "title": "Enchanced Fog",
     "category": "Shaders",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21.80+",
+        "icon": "https://i.ibb.co/PZ6LJbnj/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/11UG-VTWqIEIP7yeTeBeUGEHfI5YdoNrn/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-024": {
     "title": "DéesseUIPa",
