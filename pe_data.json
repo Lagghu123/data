@@ -2,7 +2,16 @@
   "pe-item-026": {
     "title": "Glitch Water Config",
     "category": "Shaders",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21.80+",
+        "icon": "https://i.ibb.co/k2dVh97J/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1LGNmNRUqBEiNAvMQruNlmkU18gQgU47w/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-025": {
     "title": "Enchanced Fog",
