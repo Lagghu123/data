@@ -7,7 +7,16 @@
   "pe-item-023": {
     "title": "Newb x Dragon Complementary",
     "category": "Shaders",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.2.7",
+        "icon": "https://i.ibb.co/hFBB0tgn/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1MsC_MFCUTcfpz4U0jWtPfqXawmxLeZGu/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-022": {
     "title": "Velora shader",
