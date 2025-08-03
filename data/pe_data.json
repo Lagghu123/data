@@ -60,9 +60,9 @@
     ]
   },
   "pe-item-023": {
-    "title": "Newb x Dragong Complementary",
+    "title": "Newb x Dragon Complementary",
     "category": "Shaders",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-023.md",
     "versions": [
       {
         "ver": "1.2.7",
