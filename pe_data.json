@@ -35,7 +35,16 @@
   "pe-item-021": {
     "title": "Sildurscurrently",
     "category": "Shaders",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/JFzmFvC6/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1p9kvvoMtBdNPRKlR3LH1zuWJ9gkMbYoo/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-020": {
     "title": "Newb x Ale v2 Renewed",
