@@ -265,7 +265,7 @@
   "pe-item-006": {
     "title": "Detailed Player Animations",
     "category": "Resourcepacks",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-006.md",
     "versions": [
       {
         "ver": "MC 1.15+",
