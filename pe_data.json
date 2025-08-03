@@ -2,7 +2,16 @@
   "pe-item-024": {
     "title": "DéesseUIPa",
     "category": "Resourcepacks",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.1.0",
+        "icon": "https://i.ibb.co/m5LxgWwV/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1vSMVmFDSC94_EWsYqmfvxIR0cQ7w166f/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-023": {
     "title": "Newb x Dragon Complementary",
