@@ -3,7 +3,16 @@
     "title": "Solar Shader",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "3.0",
+        "icon": "https://i.ibb.co/Gf0YzRkf/pack-icon.png",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://drive.google.com/file/d/1a_bEoaQ1sf-kmY11EL6we-0qt48acd4P/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-027": {
     "title": "Reflective Grass",
