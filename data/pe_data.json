@@ -404,5 +404,11 @@
         "tag": "googledrive"
       }
     ]
+  },
+  "pe-item-028": {
+    "title": "Hyze SE RD",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
   }
 }
