@@ -409,6 +409,15 @@
     "title": "Hyze SE RD",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0",
+        "icon": "https://i.ibb.co/F4ZGPpVg/pack-icon.png",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://drive.google.com/file/d/1nXVmAT_yxvKImdPYPZAcheWFwvFwnvlL/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   }
 }
