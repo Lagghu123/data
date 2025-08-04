@@ -1,4 +1,10 @@
 {
+  "pe-item-029": {
+    "title": "Solar Shader",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-027": {
     "title": "Reflective Grass",
     "category": "Shaders",
