@@ -3,7 +3,16 @@
     "title": "Animation Shader",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.5",
+        "icon": "https://i.ibb.co/HL4FfkCq/pack-icon.png",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://drive.google.com/file/d/1vcFzRRrX_pEXojiavosGrGbkhFPBweS9/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-029": {
     "title": "Solar Shader",
