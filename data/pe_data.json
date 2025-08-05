@@ -1,4 +1,10 @@
 {
+  "pe-item-030": {
+    "title": "Animation Shader",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-029": {
     "title": "Solar Shader",
     "category": "Shaders",
