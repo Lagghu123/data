@@ -464,5 +464,11 @@
         "tag": "googledrive"
       }
     ]
+  },
+  "pe-item-032": {
+    "title": "NovaFx",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
   }
 }
