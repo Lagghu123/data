@@ -3,7 +3,16 @@
     "title": "Strawberry Vibrant Enchanced",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "v1",
+        "icon": "https://i.ibb.co/L3N9xqj/pack-icon.png",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://drive.google.com/file/d/1SLd9vZVT2nUf3c5FvV_Ci77VBGkGJFbH/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
   },
   "pe-item-032": {
     "title": "Xiao Shader",
