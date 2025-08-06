@@ -1,4 +1,10 @@
 {
+  "pe-item-043": {
+    "title": "Bicubic Shader",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-042": {
     "title": "Hysteria Shader",
     "category": "Shaders",
