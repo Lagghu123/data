@@ -1,4 +1,10 @@
 {
+  "pe-item-046": {
+    "title": "Zero Deferred Grass Realistic",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-045": {
     "title": "Dynamic Third Person Camera",
     "category": "Addons",
