@@ -1,4 +1,10 @@
 {
+  "pe-item-045": {
+    "title": "Dynamic Third Person Camera",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-044": {
     "title": "Comely Shader",
     "category": "Shaders",
