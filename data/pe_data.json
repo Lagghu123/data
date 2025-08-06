@@ -2,8 +2,17 @@
   "pe-item-036": {
     "title": "Glacier Client",
     "category": "Clients",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-036.md",
+    "versions": [
+      {
+        "ver": "v5",
+        "icon": "https://i.ibb.co/8D1MnyRB/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/npl4w26e1s85x6n/Glacier_Client_v5_[Main].mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-035": {
     "title": "Sneak Duplicate ",
