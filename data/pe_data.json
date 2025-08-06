@@ -1,4 +1,10 @@
 {
+  "pe-item-044": {
+    "title": "Comely Shader",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-043": {
     "title": "Bicubic Shader",
     "category": "Shaders",
