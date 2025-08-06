@@ -179,7 +179,7 @@
   "pe-item-019": {
     "title": "Jenny mod",
     "category": "Addons",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-019.md",
     "versions": [
       {
         "ver": "3.0.0",
