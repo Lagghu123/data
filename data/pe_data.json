@@ -2,8 +2,17 @@
   "pe-item-035": {
     "title": "Sneak Duplicate ",
     "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-035.md",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/kNYbz3F/pack-icon.jpg",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://www.mediafire.com/file/nq6v6w2ltoe8rdd/Sneak_Duplicate.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-034": {
     "title": "Strawberry Deferred",
