@@ -1,4 +1,10 @@
 {
+  "pe-item-047": {
+    "title": "Minecraft patch",
+    "category": "Minecraft patch",
+    "descriptionFile": "",
+    "versions": []
+  },
   "pe-item-046": {
     "title": "Zero Deferred Grass Realistic",
     "category": "Shaders",
