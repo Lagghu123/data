@@ -1,2 +1,2 @@
-* <font color='green'> Không mất thành tựu </font>
-<font color='gray'> việt hoá bởi: @thune1245 </font>
+* <font color='aqua'> Không mất thành tựu </font>
+* việt hoá bởi: @thune1245
