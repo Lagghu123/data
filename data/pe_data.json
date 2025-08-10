@@ -390,6 +390,14 @@
         "iconHeight": 130,
         "link": "https://drive.google.com/file/d/1da9qik4qfrk5b3ip_i9Zgw6lTXMPTPOC/view?usp=drivesdk",
         "tag": "googledrive"
+      },
+      {
+        "ver": "1.02",
+        "icon": "",
+        "iconWidth": 0,
+        "iconHeight": 0,
+        "link": "https://www.mediafire.com/file/nuhntan8nrmbh1p/RLCraft_Bedrock_Edition.mctemplate/file",
+        "tag": "mediafire"
       }
     ]
   },
