@@ -1,4 +1,35 @@
 {
+  "pe-item-016": {
+    "title": "RL Craft",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.1",
+        "icon": "https://i.ibb.co/FbZLVB10/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/17NIj5XptHr1Vn_8WcqrnZSsexdJa1Ccs/view?usp=drivesdk",
+        "tag": "googledrive"
+      },
+      {
+        "ver": "1.0.1 - world template",
+        "icon": "https://i.ibb.co/qLtHrGp4/world-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1da9qik4qfrk5b3ip_i9Zgw6lTXMPTPOC/view?usp=drivesdk",
+        "tag": "googledrive"
+      },
+      {
+        "ver": "1.0.2",
+        "icon": "",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/nuhntan8nrmbh1p/RLCraft_Bedrock_Edition.mctemplate/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-049": {
     "title": "Auto Enchant",
     "category": "Addons",
@@ -366,37 +397,6 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "https://www.mediafire.com/file/h9wr809cq5z9837/Elemental+Weapons+++Tools+(addon).mcaddon/file",
-        "tag": "mediafire"
-      }
-    ]
-  },
-  "pe-item-016": {
-    "title": "RL Craft",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": [
-      {
-        "ver": "1.0.1",
-        "icon": "https://i.ibb.co/FbZLVB10/pack-icon.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://drive.google.com/file/d/17NIj5XptHr1Vn_8WcqrnZSsexdJa1Ccs/view?usp=drivesdk",
-        "tag": "googledrive"
-      },
-      {
-        "ver": "1.0.1 - world template",
-        "icon": "https://i.ibb.co/qLtHrGp4/world-icon.jpg",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://drive.google.com/file/d/1da9qik4qfrk5b3ip_i9Zgw6lTXMPTPOC/view?usp=drivesdk",
-        "tag": "googledrive"
-      },
-      {
-        "ver": "1.02",
-        "icon": "",
-        "iconWidth": 0,
-        "iconHeight": 0,
-        "link": "https://www.mediafire.com/file/nuhntan8nrmbh1p/RLCraft_Bedrock_Edition.mctemplate/file",
         "tag": "mediafire"
       }
     ]
