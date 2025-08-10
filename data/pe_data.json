@@ -3,7 +3,16 @@
     "title": "Auto Enchant",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1",
+        "icon": "q",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "njd",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-048": {
     "title": "Command Runner",
