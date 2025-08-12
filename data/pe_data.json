@@ -1,4 +1,19 @@
 {
+  "pe-item-049": {
+    "title": "Auto Enchant",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/kg1G7WK0/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/egppcrt7dr2e1hi/Auto+Enchant+by+Geominicraft.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-050": {
     "title": "Sky block 180s",
     "category": "Maps",
@@ -44,12 +59,6 @@
         "tag": "mediafire"
       }
     ]
-  },
-  "pe-item-049": {
-    "title": "Auto Enchant",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-048": {
     "title": "Command Runner",
