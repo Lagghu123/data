@@ -3,7 +3,16 @@
     "title": "Easy Ore",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/5xzktMpF/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/id70c3lt8bzmkyq/Easy+Ores+by+Geominicraft.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-016": {
     "title": "RL Craft",
