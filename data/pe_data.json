@@ -1,4 +1,19 @@
 {
+  "pe-item-023": {
+    "title": "Newb x Dragon Complementary",
+    "category": "Shaders",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-023.md",
+    "versions": [
+      {
+        "ver": "1.2.7",
+        "icon": "https://i.ibb.co/hFBB0tgn/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://drive.google.com/file/d/1MsC_MFCUTcfpz4U0jWtPfqXawmxLeZGu/view?usp=drivesdk",
+        "tag": "googledrive"
+      }
+    ]
+  },
   "pe-item-049": {
     "title": "Auto Enchant",
     "category": "Addons",
@@ -316,21 +331,6 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "https://drive.google.com/file/d/1vSMVmFDSC94_EWsYqmfvxIR0cQ7w166f/view?usp=drivesdk",
-        "tag": "googledrive"
-      }
-    ]
-  },
-  "pe-item-023": {
-    "title": "Newb x Dragon Complementary",
-    "category": "Shaders",
-    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-023.md",
-    "versions": [
-      {
-        "ver": "1.2.7",
-        "icon": "https://i.ibb.co/hFBB0tgn/pack-icon.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://drive.google.com/file/d/1MsC_MFCUTcfpz4U0jWtPfqXawmxLeZGu/view?usp=drivesdk",
         "tag": "googledrive"
       }
     ]
