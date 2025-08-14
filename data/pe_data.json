@@ -1,4 +1,19 @@
 {
+  "pe-item-053": {
+    "title": "Trade Unlocker",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/B5h1Qnfb/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/8766mlybce3h48w/1Atrade_unlocker.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-052": {
     "title": "Dân Việt",
     "category": "Resourcepacks",
@@ -13,12 +28,6 @@
         "tag": "mediafire"
       }
     ]
-  },
-  "pe-item-053": {
-    "title": "Trade Unlocker",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-051": {
     "title": "Easy Ore",
