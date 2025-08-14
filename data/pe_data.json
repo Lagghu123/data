@@ -1,13 +1,22 @@
 {
-  "pe-item-053": {
-    "title": "Trade Unlocker",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
-  },
   "pe-item-052": {
     "title": "Dân Việt",
     "category": "Resourcepacks",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/23F2r70L/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/acnm7hslk55qc6y/DANVIET-fix.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
+  "pe-item-053": {
+    "title": "Trade Unlocker",
+    "category": "Addons",
     "descriptionFile": "",
     "versions": []
   },
