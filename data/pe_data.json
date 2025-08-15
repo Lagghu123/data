@@ -3,7 +3,16 @@
     "title": "Mob farm in a block",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/N6hrtFxT/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/naikqfc0xytw14z/Mob_Farm_in_a_Block_By_Bayu.mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-055": {
     "title": "Mo' Enchantments",
