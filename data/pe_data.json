@@ -2,8 +2,17 @@
   "pe-item-059": {
     "title": "TaCZBE",
     "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-059.md",
+    "versions": [
+      {
+        "ver": "0.4",
+        "icon": "https://i.ibb.co/rKqnMdgf/pack-icon-4.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/sxw4c89ypumydp8/TaCZBE+v0.4+AKM+and+Inspect+FIXED!+.mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-058": {
     "title": "World Builder",
