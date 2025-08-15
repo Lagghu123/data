@@ -2,7 +2,7 @@
   "pc-item-001": {
     "title": "Rem's Puddi",
     "category": "Resourcepacks",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pc-item-001.md",
     "versions": []
   }
 }
