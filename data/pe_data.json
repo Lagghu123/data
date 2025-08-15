@@ -3,7 +3,16 @@
     "title": "World Builder",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.6.1",
+        "icon": "https://i.ibb.co/35GKCN2Y/pack-icon-2.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/0h8fja9znnk6sc4/World+Builder+1.6.1.mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-057": {
     "title": "Force Creative",
