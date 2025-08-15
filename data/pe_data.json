@@ -3,7 +3,16 @@
     "title": "Mo' Enchantments",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "2.4.6",
+        "icon": "https://i.ibb.co/84bBMs6v/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/kpx7kes08q0msmr/Mo'+EnchantmentsV2.4.6.zip/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-054": {
     "title": "Rem's Buddi",
