@@ -2,8 +2,17 @@
   "pe-item-054": {
     "title": "Rem's Buddi",
     "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-054.md",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/3mPRTzVq/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/x568y7ech79xuxc/Rem'sPuddi.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-053": {
     "title": "Trade Unlocker",
