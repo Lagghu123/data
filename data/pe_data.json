@@ -3,7 +3,16 @@
     "title": "Hysteria Shader",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21.20+",
+        "icon": "https://i.ibb.co/qHDMqgT/pack-icon-6.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/hakjgmaczr7p0nd/Hysteria-Shader-MCPE-1.21.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-043": {
     "title": "Bicubic Shader",
