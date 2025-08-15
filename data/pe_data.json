@@ -3,7 +3,16 @@
     "title": "Force Creative",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/wNb6WqBW/pack-icon-1.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/qp31o5weeseos7x/Force_Creative+By+pinmc.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-056": {
     "title": "Mob farm in a block",
