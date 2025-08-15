@@ -1,4 +1,19 @@
 {
+  "pe-item-012": {
+    "title": "Prizmavisuals",
+    "category": "Shaders",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.postimg.cc/MpzXRsrZ/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/yl42j40z2cyk928/❀PrizmaVis.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-002": {
     "title": "Natural Disaster",
     "category": "Addons",
@@ -764,21 +779,6 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "https://www.mediafire.com/file/xrkfwg8cjhnnl8k/No-particles-MAX-FPS_1603239504.mcpack/file",
-        "tag": "mediafire"
-      }
-    ]
-  },
-  "pe-item-012": {
-    "title": "Prizmavisuals",
-    "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": [
-      {
-        "ver": "1.0.0",
-        "icon": "https://i.postimg.cc/MpzXRsrZ/pack-icon.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://www.mediafire.com/file/yl42j40z2cyk928/❀PrizmaVis.zip/file",
         "tag": "mediafire"
       }
     ]
