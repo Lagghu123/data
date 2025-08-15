@@ -1,4 +1,19 @@
 {
+  "pe-item-002": {
+    "title": "Natural Disaster",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/1t1wShGZ/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/6yxk30ee3u68o86/Natural+Disaster.mcaddon.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-042": {
     "title": "Hysteria Shader",
     "category": "Shaders",
@@ -606,21 +621,6 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "https://www.mediafire.com/file/5ezol2omisip1mm/Tech+Craft.mcaddon.zip/file",
-        "tag": "mediafire"
-      }
-    ]
-  },
-  "pe-item-002": {
-    "title": "Natural Disaster",
-    "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": [
-      {
-        "ver": "1.0.0",
-        "icon": "https://i.ibb.co/1t1wShGZ/pack-icon.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://www.mediafire.com/file/6yxk30ee3u68o86/Natural+Disaster.mcaddon.zip/file",
         "tag": "mediafire"
       }
     ]
