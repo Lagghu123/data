@@ -2,7 +2,7 @@
   "pe-item-055": {
     "title": "Mo' Enchantments",
     "category": "Addons",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-055.md",
     "versions": [
       {
         "ver": "2.4.6",
