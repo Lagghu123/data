@@ -19,6 +19,14 @@
         "iconHeight": 130,
         "link": "https://drive.google.com/file/d/1e45e-7SWQoaDukSybprzzyJMKip8IpQK/view?usp=drivesdk",
         "tag": "googledrive"
+      },
+      {
+        "ver": "1.5.1",
+        "icon": "https://i.ibb.co/60j76Hbq/pack-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/xmtaf18dn9m42df/Actions__Stuff_1.5.1_%2528resources%2529.mcpack/file",
+        "tag": "mediafire"
       }
     ]
   },
