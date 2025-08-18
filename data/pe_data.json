@@ -3,7 +3,16 @@
     "title": "La Natural",
     "category": "Resourcepacks",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.54",
+        "icon": "https://i.ibb.co/FkmXTsjQ/pack-icon-9.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://direct-link.net/1383560/crN1PLl4duSs",
+        "tag": "linkvertise"
+      }
+    ]
   },
   "pe-item-062": {
     "title": "Công cụ không hỏng",
