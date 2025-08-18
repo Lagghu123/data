@@ -3,7 +3,16 @@
     "title": "UseableWoodOnStonecutter",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/xKK2D5JP/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/beu1vwswmlyf2q3/UseableWoodOnStonecutter.zip/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-066": {
     "title": "Essentinals",
