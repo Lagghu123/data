@@ -3,7 +3,16 @@
     "title": "Insta Farm",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "7.0.8",
+        "icon": "https://i.ibb.co/G4tF4csn/pack-icon-10.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/3bwrmogh14ac0zj/InstaFarm+V7.0.8.mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-064": {
     "title": "La Natural",
