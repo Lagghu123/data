@@ -3,7 +3,16 @@
     "title": "From the fog",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "V2",
+        "icon": "https://i.ibb.co/zThvFxr3/pack-icon.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/eybcsiis7kp1g4j/Addon+From+The+Fog+Mới+MCPE+1.21.30+.mcaddon/file",
+        "tag": "Mediafire "
+      }
+    ]
   },
   "pe-item-067": {
     "title": "Useable Wood On Stonecutter",
