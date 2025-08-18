@@ -3,7 +3,16 @@
     "title": "Essentinals",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.5",
+        "icon": "https://i.ibb.co/MxtxsHmz/pack-icon-11.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/d5tjfro458fixiq/Essentials+1.5+lxx.mcaddon/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-065": {
     "title": "Insta Farm",
