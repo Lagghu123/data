@@ -1,4 +1,19 @@
 {
+  "pe-item-072": {
+    "title": "Pat Pat",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/392fm0FN/pack-icon-5.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/spd9kpwtxj2uob0/Pat-Pat+(1.0.0).mcaddon.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-069": {
     "title": "Take a Seat",
     "category": "Resourcepacks",
@@ -13,12 +28,6 @@
         "tag": "mediafire"
       }
     ]
-  },
-  "pe-item-072": {
-    "title": "Pat Pat",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-071": {
     "title": "Physics Addon",
