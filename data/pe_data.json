@@ -1,4 +1,19 @@
 {
+  "pe-item-070": {
+    "title": "Eating Animation",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/SXLv6kPD/pack-icon-3.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/2ai43rec9ytw9cd/eatingAnimation.mcpack.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-071": {
     "title": "Physics Addon",
     "category": "Addons",
@@ -43,12 +58,6 @@
         "tag": "mediafire"
       }
     ]
-  },
-  "pe-item-070": {
-    "title": "Eating Animation",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-047": {
     "title": "Minecraft patch",
