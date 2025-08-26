@@ -1,4 +1,19 @@
 {
+  "pe-item-069": {
+    "title": "Take a Seat",
+    "category": "Resourcepacks",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "3.1.4",
+        "icon": "https://i.ibb.co/N6dscGfW/pack-icon-2.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/7aacesl2i4cyqh1/Take_a_Seat_3.1.4.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-072": {
     "title": "Pat Pat",
     "category": "Addons",
@@ -13,12 +28,6 @@
   },
   "pe-item-070": {
     "title": "Eating Animation",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
-  },
-  "pe-item-069": {
-    "title": "Take a Seat",
     "category": "Addons",
     "descriptionFile": "",
     "versions": []
