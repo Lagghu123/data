@@ -3,7 +3,16 @@
     "title": "CM Client",
     "category": "Clients",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "3.0.0",
+        "icon": "https://i.ibb.co/Y4ZBs4c3/pack-icon-6.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/v9cd74f2tbb5x6x/CM_Client_v3.mcpack.zip/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-070": {
     "title": "Eating Animation",
