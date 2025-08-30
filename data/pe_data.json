@@ -1,4 +1,19 @@
 {
+  "pe-item-074": {
+    "title": "USTP Optional Packs",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-074.md",
+    "versions": [
+      {
+        "ver": "3.9.8.2",
+        "icon": "https://i.ibb.co/TBfdSJtV/pack-icon-4.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/hzs3g1ygquwxv5w/USTP_v3.9.8.2_Optional_Packs.mcaddon.zip/file",
+        "tag": "mediafire"
+      }
+    ]
+  },
   "pe-item-075": {
     "title": "Crown Invisible Armor",
     "category": "Resourcepacks",
@@ -13,12 +28,6 @@
         "tag": "mediafire"
       }
     ]
-  },
-  "pe-item-074": {
-    "title": "USTP Optional Packs",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-073": {
     "title": "CM Client",
