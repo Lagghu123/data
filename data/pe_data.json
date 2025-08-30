@@ -3,7 +3,16 @@
     "title": "Crown Invisible Armor",
     "category": "Resourcepacks",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "2.0.0",
+        "icon": "https://i.ibb.co/gLqp2qWX/pack-icon-5.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/j7xzwa4v8f2hxu6/Crown+++Invisible+Armor+V2.mcpack/file",
+        "tag": "mediafire"
+      }
+    ]
   },
   "pe-item-074": {
     "title": "USTP Optional Packs",
