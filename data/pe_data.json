@@ -1,4 +1,19 @@
 {
+  "pe-item-079": {
+    "title": "MoreCamPers",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "3.2.1",
+        "icon": "https://i.ibb.co/CsYK9dW8/22f894250a09.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "MoreCamPers%20v3.2.1_68b42b0805767_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-080": {
     "title": "Furniture Life",
     "category": "Addons",
@@ -36,12 +51,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-079": {
-    "title": "MoreCamPers",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-078": {
     "title": "Better FPS max",
