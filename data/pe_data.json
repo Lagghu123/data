@@ -2,8 +2,17 @@
   "pe-item-083": {
     "title": "Natural List",
     "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-083.md",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/vvLxwMnS/f525f3b06b18.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Naturalist_68b42e0ab0c6c_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-082": {
     "title": "Harvest Craft",
