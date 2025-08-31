@@ -1,4 +1,19 @@
 {
+  "pe-item-090": {
+    "title": "Free Cam",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-090.md",
+    "versions": [
+      {
+        "ver": "1.1.2",
+        "icon": "https://i.ibb.co/fdc9VDRc/c159aa0845d6.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Free%20Camera%20V1.1.2_68b489f6e5630_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-091": {
     "title": "Toogle Night Vision",
     "category": "Resourcepacks",
@@ -13,12 +28,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-090": {
-    "title": "Free Cam",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-089": {
     "title": "Parkour Addon",
