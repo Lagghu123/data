@@ -1,12 +1,21 @@
 {
-  "pe-item-089": {
-    "title": "Parkour Addon",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
-  },
   "pe-item-088": {
     "title": "OP Trade Expansion",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/MD17gqxZ/ac69a052ca32.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "OP%20Traders%20Expansion_68b4880cad5f2_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
+  "pe-item-089": {
+    "title": "Parkour Addon",
     "category": "Addons",
     "descriptionFile": "",
     "versions": []
