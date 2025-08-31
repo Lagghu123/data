@@ -1,4 +1,19 @@
 {
+  "pe-item-085": {
+    "title": "Invisibility Hider",
+    "category": "Resourcepacks",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-085.md",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/TxFySTJJ/6b93895e292f.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Invisibility%20Hider.mcpack_68b4873e37e6d_b1.zip",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-087": {
     "title": "Motion Blur",
     "category": "Resourcepacks",
@@ -7,12 +22,6 @@
   },
   "pe-item-086": {
     "title": "Fandex CPvP",
-    "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": []
-  },
-  "pe-item-085": {
-    "title": "Invisibility Hider",
     "category": "Resourcepacks",
     "descriptionFile": "",
     "versions": []
