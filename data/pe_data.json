@@ -1,4 +1,19 @@
 {
+  "pe-item-086": {
+    "title": "Fandex CPvP",
+    "category": "Resourcepacks",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/qLf5W84Q/9336057d146f.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Fandex%20Cpvp.mcpack_68b4878070c95_b1.zip",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-087": {
     "title": "Motion Blur",
     "category": "Resourcepacks",
@@ -28,12 +43,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-086": {
-    "title": "Fandex CPvP",
-    "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-084": {
     "title": "Bushy Leaves",
