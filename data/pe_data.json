@@ -2,8 +2,25 @@
   "pe-item-084": {
     "title": "Bushy Leaves",
     "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-084.md",
+    "versions": [
+      {
+        "ver": "1.20.0 RTX",
+        "icon": "https://i.ibb.co/fdJ03dtz/bc1e628bffde.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Bushy_Leaves_RTX_V1.20.0_68b4847f3e563_b1.mcaddon",
+        "tag": "idrive"
+      },
+      {
+        "ver": "1.20.0",
+        "icon": "https://i.ibb.co/fdJ03dtz/bc1e628bffde.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Byshy_Leaves_V1.20.0_68b485a24fb40_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-081": {
     "title": "Decodrop",
