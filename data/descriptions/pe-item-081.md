@@ -1,0 +1,1 @@
+* Cài cả hai pack RP và BP thì mới hoạt động
