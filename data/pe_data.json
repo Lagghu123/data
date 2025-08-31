@@ -3,7 +3,16 @@
     "title": "RealismCraft",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "2.0.0",
+        "icon": "https://i.ibb.co/99kMdjDP/4f42c99eefa1.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "RealismCraft%202.0%20(resources)%20(MDF)_68b4116ea5e89_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-074": {
     "title": "USTP Optional Packs",
