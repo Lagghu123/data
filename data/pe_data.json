@@ -5,11 +5,19 @@
     "descriptionFile": "",
     "versions": [
       {
-        "ver": "2.0.0",
+        "ver": "2.0 (Resourcepack)",
         "icon": "https://i.ibb.co/99kMdjDP/4f42c99eefa1.png",
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "RealismCraft%202.0%20(resources)%20(MDF)_68b4116ea5e89_b1.mcpack",
+        "tag": "idrive"
+      },
+      {
+        "ver": "2.0 (World Template)",
+        "icon": "https://i.ibb.co/99kMdjDP/4f42c99eefa1.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "RealismCraft%202.0%20(world_template)%20(MDF)_68b425e944a68_b1.mctemplate",
         "tag": "idrive"
       }
     ]
