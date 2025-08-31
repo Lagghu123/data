@@ -1,4 +1,19 @@
 {
+  "pe-item-082": {
+    "title": "Harvest Craft",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-082.md",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/b5Tv6TQn/fdb9d733c0cd.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Harvestcraft%20Add-On%20_68b46ae1b3f45_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-083": {
     "title": "Natural List",
     "category": "Addons",
@@ -13,12 +28,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-082": {
-    "title": "Harvest Craft",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-079": {
     "title": "MoreCamPers",
