@@ -1,4 +1,19 @@
 {
+  "pe-item-080": {
+    "title": "Furniture Life",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "MC 1.21+",
+        "icon": "https://i.ibb.co/k2GLbf1Y/467ece3403a5.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Furniture%20Life_68b42af417e4f_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-081": {
     "title": "Decodrop",
     "category": "Addons",
@@ -21,12 +36,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-080": {
-    "title": "Furniture Life",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-079": {
     "title": "MoreCamPers",
