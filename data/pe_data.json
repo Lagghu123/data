@@ -1,4 +1,19 @@
 {
+  "pe-item-089": {
+    "title": "Parkour Addon",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-089.md",
+    "versions": [
+      {
+        "ver": "1.0.3",
+        "icon": "https://i.ibb.co/YBwgqQgf/9e65b8cba2be.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Parkour%20Add-On%20by%20S7D%20%5B1.0.3%5D_68b488235c5b4_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-088": {
     "title": "OP Trade Expansion",
     "category": "Addons",
@@ -13,12 +28,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-089": {
-    "title": "Parkour Addon",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-086": {
     "title": "Fandex CPvP",
