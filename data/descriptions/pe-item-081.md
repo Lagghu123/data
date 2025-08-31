@@ -1,5 +1,4 @@
 * Cài cả hai pack RP và BP thì mới hoạt động
-
 * Tiện ích bổ sung DecoDrop bổ sung nhiều loại đồ nội thất và khối trang trí. Tiện ích bổ sung này hoạt động trên Minecraft Bedrock phiên bản 1.20.30 trở lên.
 
 ![1000375202.png](https://i.ibb.co/gLrLjLq8/1000375202.png)
