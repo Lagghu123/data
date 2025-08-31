@@ -2,7 +2,7 @@
   "pe-item-076": {
     "title": "RealismCraft",
     "category": "Addons",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-076.md",
     "versions": [
       {
         "ver": "2.0 (Resourcepack)",
