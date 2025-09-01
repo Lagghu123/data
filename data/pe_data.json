@@ -3,7 +3,16 @@
     "title": "Java Aspects",
     "category": "Resourcepacks",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "6.3.1",
+        "icon": "https://i.ibb.co/8gSZ476g/df7e02762b66.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "JavaAspects(6.3.1)_68b512e16fb33_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-090": {
     "title": "Free Cam",
