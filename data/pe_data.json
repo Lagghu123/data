@@ -1,4 +1,19 @@
 {
+  "pe-item-094": {
+    "title": "Mob Armor",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-094.md",
+    "versions": [
+      {
+        "ver": "1.2",
+        "icon": "https://i.ibb.co/YF64TR0H/2c6860505a50.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "MOB%20ARMOR%20Add-On%201.2%20(addon).mcaddon_68b67d0dd41dd_b1.zip",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-098": {
     "title": "Genzxs RPG class",
     "category": "Addons",
@@ -19,12 +34,6 @@
   },
   "pe-item-095": {
     "title": "Mob To Waifu",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
-  },
-  "pe-item-094": {
-    "title": "Mob Armor",
     "category": "Addons",
     "descriptionFile": "",
     "versions": []
