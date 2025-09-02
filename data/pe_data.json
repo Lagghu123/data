@@ -1,4 +1,19 @@
 {
+  "pe-item-098": {
+    "title": "Genzxs RPG class",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.2",
+        "icon": "https://i.ibb.co/zhTC8XRj/3bda8549e7f7.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Genzxs%20RPG%20class%20V1%2C2%20officiall%20%5B1%2C21%2C70%20-%201%2C21%2C80%5D_68b7166c94786_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-095": {
     "title": "Mob To Waifu",
     "category": "Addons",
@@ -51,12 +66,6 @@
         "tag": "idrive"
       }
     ]
-  },
-  "pe-item-098": {
-    "title": "Genzxs RPG class",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
   },
   "pe-item-097": {
     "title": "True Survival  Zombie Apocalypse",
