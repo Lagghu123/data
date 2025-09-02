@@ -1,4 +1,19 @@
 {
+  "pe-item-096": {
+    "title": "MRG OP Eggs",
+    "category": "Addons",
+    "descriptionFile": "",
+    "versions": [
+      {
+        "ver": "1.2",
+        "icon": "https://i.ibb.co/gL4qdXBn/2362282e6875.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "MRG%20OP%20Eggs%20V-1.2_68b71684951a5_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
+  },
   "pe-item-098": {
     "title": "Genzxs RPG class",
     "category": "Addons",
@@ -69,12 +84,6 @@
   },
   "pe-item-097": {
     "title": "True Survival  Zombie Apocalypse",
-    "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
-  },
-  "pe-item-096": {
-    "title": "MRG OP Eggs",
     "category": "Addons",
     "descriptionFile": "",
     "versions": []
