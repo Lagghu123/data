@@ -3,7 +3,16 @@
     "title": "Zini Shader",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "3.0.0",
+        "icon": "https://i.ibb.co/0jzGsj67/79d3898e030b.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "ZiNiShaderV3_68b7ba58acc6f_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-096": {
     "title": "MRG OP Eggs",
