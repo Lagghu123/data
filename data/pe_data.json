@@ -3,7 +3,16 @@
     "title": "Ashiatrixs Auto Totem",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/20nhvQfx/dc66b66882fa.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Ashiatrixs%20Auto%20Totem_68b7bb37a7a82_b1.mcpack",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-099": {
     "title": "Zini Shader",
