@@ -2,8 +2,17 @@
   "pe-item-101": {
     "title": "Upgraded Netherite",
     "category": "Addons",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-101.md",
+    "versions": [
+      {
+        "ver": "3.0.0",
+        "icon": "https://i.ibb.co/ymvw9gnp/bc541848cdc5.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Upgraded%20Netherite_68b8239e062ce_b1.mcaddon",
+        "tag": "idrive"
+      }
+    ]
   },
   "pe-item-100": {
     "title": "Ashiatrixs Auto Totem",
