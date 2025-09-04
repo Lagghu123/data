@@ -35,6 +35,14 @@
         "iconHeight": 130,
         "link": "https://files.heymcpe.download/MCPE-Patched-Skin-4D-1.21.101.apk",
         "tag": "none"
+      },
+      {
+        "ver": "1.21.102",
+        "icon": "",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "vgg",
+        "tag": "y"
       }
     ]
   },
