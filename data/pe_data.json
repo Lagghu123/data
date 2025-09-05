@@ -38,7 +38,16 @@
         "iconHeight": 130,
         "link": "https://files.heymcpe.download/MCPE-Patched-Skin-4D-1.21.101.apk",
         "tag": "none",
-        "description": "No music"
+        "description": ""
+      },
+      {
+        "ver": "1.21.101",
+        "icon": "https://i.ibb.co/gLqNP2M6/Minecraft-Bedrock-icon.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "MCPE-Patched-Vibrant-Visuals-Extended-Music-1.21.101.apk",
+        "tag": "idrive",
+        "description": "With music"
       }
     ]
   },
