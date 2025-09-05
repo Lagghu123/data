@@ -37,7 +37,7 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "https://files.heymcpe.download/MCPE-Patched-Skin-4D-1.21.101.apk",
-        "tag": "none",
+        "tag": "n",
         "description": ""
       },
       {
@@ -47,7 +47,7 @@
         "iconHeight": 130,
         "link": "MCPE-Patched-Vibrant-Visuals-Extended-Music-1.21.101.apk",
         "tag": "idrive",
-        "description": "With music"
+        "description": ""
       }
     ]
   },
