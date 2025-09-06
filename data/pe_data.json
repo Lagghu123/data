@@ -3,7 +3,17 @@
     "title": "Combat Actions + Weapons",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0",
+        "icon": "https://i.ibb.co/wr0L9DyT/9e7aad067580.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Combat%20Actions%20%2B%20Weapons_68bbfeab589cb1.89375614_b1.mcaddon",
+        "tag": "idrive",
+        "description": "Minecraft 1.20+"
+      }
+    ]
   },
   "pe-item-104": {
     "title": "RPG Asu",
