@@ -1,4 +1,36 @@
 {
+  "pe-item-059": {
+    "title": "TaCZBE",
+    "category": "Addons",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-059.md",
+    "versions": [
+      {
+        "ver": "0.4",
+        "icon": "https://i.ibb.co/rKqnMdgf/pack-icon-4.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "https://www.mediafire.com/file/sxw4c89ypumydp8/TaCZBE+v0.4+AKM+and+Inspect+FIXED!+.mcaddon/file",
+        "tag": "mediafire"
+      },
+      {
+        "ver": "0.41",
+        "icon": "https://i.ibb.co/kgsd8j3s/75cad339e8da.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "TaCZBE%20V0.41%20FIXED%20By%20Akang%20Krep_68b6a2a83429c_b1.mcaddon",
+        "tag": "idrive"
+      },
+      {
+        "ver": "2.0.0",
+        "icon": "https://i.ibb.co/FL2ZzKRq/735c7244099d.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "GoldenZero(BETAv2)FIXED.mcaddon_68bbff693c7ca7.40532197_b1.zip",
+        "tag": "idrive",
+        "description": "Pack súng vàng"
+      }
+    ]
+  },
   "pe-item-106": {
     "title": "Structure Builder criador",
     "category": "Addons",
@@ -230,29 +262,6 @@
         "iconWidth": 160,
         "iconHeight": 130,
         "link": "Mob%20to%20Waifu%20v1.3.1_68b67db235bf7_b1.mcaddon",
-        "tag": "idrive"
-      }
-    ]
-  },
-  "pe-item-059": {
-    "title": "TaCZBE",
-    "category": "Addons",
-    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-059.md",
-    "versions": [
-      {
-        "ver": "0.4",
-        "icon": "https://i.ibb.co/rKqnMdgf/pack-icon-4.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "https://www.mediafire.com/file/sxw4c89ypumydp8/TaCZBE+v0.4+AKM+and+Inspect+FIXED!+.mcaddon/file",
-        "tag": "mediafire"
-      },
-      {
-        "ver": "0.41",
-        "icon": "https://i.ibb.co/kgsd8j3s/75cad339e8da.png",
-        "iconWidth": 160,
-        "iconHeight": 130,
-        "link": "TaCZBE%20V0.41%20FIXED%20By%20Akang%20Krep_68b6a2a83429c_b1.mcaddon",
         "tag": "idrive"
       }
     ]
