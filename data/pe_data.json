@@ -3,7 +3,17 @@
     "title": "Newb X Constellation Gemini",
     "category": "Shaders",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0",
+        "icon": "https://i.ibb.co/cKWb50bD/1bcd75dcd472.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "newb-constellation-gemini-android-windows-v1.0.mcpack_68bc02a157ef65.90380958_b1.zip",
+        "tag": "idrive",
+        "description": ""
+      }
+    ]
   },
   "pe-item-108": {
     "title": "Star Client",
