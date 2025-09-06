@@ -1,0 +1,1 @@
+<span style="color:#00ff00;">Pack súng vàng ròng 9999</span>
