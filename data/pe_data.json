@@ -3,7 +3,17 @@
     "title": "Aishiteru",
     "category": "Resourcepacks",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/0j7P82Hr/7ccc8e2289dd.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Aishiteru%202K_68bc020835c308.36221228_b1.mcpack",
+        "tag": "idrive",
+        "description": ""
+      }
+    ]
   },
   "pe-item-109": {
     "title": "Bjir Pack",
