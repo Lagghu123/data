@@ -3,7 +3,17 @@
     "title": "RPG Asu",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "3.0.0",
+        "icon": "https://i.ibb.co/Y4zLV6JF/a28965936ca8.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Elyans%20%5B%20RPG%20ASU%20V3%20%5D_68bbec7d3e7eb2.85232855_b1.mcaddon",
+        "tag": "idrive",
+        "description": ""
+      }
+    ]
   },
   "pe-item-103": {
     "title": "Rainzz Pvp",
