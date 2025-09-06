@@ -3,7 +3,17 @@
     "title": "Golden Zero",
     "category": "Addons",
     "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-107.md",
-    "versions": []
+    "versions": [
+      {
+        "ver": "2.0.0",
+        "icon": "https://i.ibb.co/FL2ZzKRq/735c7244099d.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "GoldenZero(BETAv2)FIXED.mcaddon_68bc005c494374.63614383_b1.zip",
+        "tag": "idrive",
+        "description": "Minecraft 1.21+"
+      }
+    ]
   },
   "pe-item-059": {
     "title": "TaCZBE",
