@@ -3,7 +3,17 @@
     "title": "Structure Builder criador",
     "category": "Addons",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/1fjmQJJ2/c8ef930bd43d.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Structure%20Builder%20criador%20%40ncmine_68bbff0060e7e5.32375226_b1.mcaddon",
+        "tag": "idrive",
+        "description": "Minecraft 1.21.20+"
+      }
+    ]
   },
   "pe-item-105": {
     "title": "Combat Actions + Weapons",
