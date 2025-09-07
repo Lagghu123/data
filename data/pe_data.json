@@ -1,9 +1,19 @@
 {
   "pe-item-112": {
-    "title": "Padding Remover",
+    "title": "Paddings Remover",
     "category": "Resourcepacks",
     "descriptionFile": "",
-    "versions": []
+    "versions": [
+      {
+        "ver": "1.0.0",
+        "icon": "https://i.ibb.co/QFwRq6Pv/4e352b20cc3a.png",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "Paddings%20Remover_68bd649b505067.66608760_b1.mcpack",
+        "tag": "idrive",
+        "description": "Minecraft 1.21.100+"
+      }
+    ]
   },
   "pe-item-111": {
     "title": "Newb X Constellation Gemini",
