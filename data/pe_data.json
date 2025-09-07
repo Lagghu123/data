@@ -2,7 +2,7 @@
   "pe-item-112": {
     "title": "Paddings Remover",
     "category": "Resourcepacks",
-    "descriptionFile": "",
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-112.md",
     "versions": [
       {
         "ver": "1.0.0",
