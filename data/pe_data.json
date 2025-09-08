@@ -2,8 +2,18 @@
   "pe-item-113": {
     "title": "Bugcat Controller",
     "category": "Resourcepacks",
-    "descriptionFile": "",
-    "versions": []
+    "descriptionFile": "https://raw.githubusercontent.com/Lagghu123/data/main/data/descriptions/pe-item-113.md",
+    "versions": [
+      {
+        "ver": "1.0.1",
+        "icon": "https://i.ibb.co/Xft05gqk/d7ae1a5e03d0.jpg",
+        "iconWidth": 160,
+        "iconHeight": 130,
+        "link": "bugcat_capoo_68beaee1e32537.42860736_b1.mcpack",
+        "tag": "idrive",
+        "description": "Minecraft 1.21+"
+      }
+    ]
   },
   "pe-item-112": {
     "title": "Paddings Remover",
