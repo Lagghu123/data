@@ -1,5 +1,5 @@
 # Upgraded Netherite \[1.21.20+\] (V3!)
-
+tét
 With this add-on you will be able to **upgrade** your netherite equipment even further, gaining **special effects** and more strength. The evolution system will have a new look, allowing you to progress further in the game
 
 ![Image 6](https://r2.mcpedl.com/submissions/225335/images/upgraded-netherite-12120_2.png)
