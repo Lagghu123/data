@@ -1,0 +1,1 @@
+# Addon offhand cho minecraft bedrock
