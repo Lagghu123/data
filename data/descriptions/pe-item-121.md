@@ -1,0 +1,1 @@
+* Hiển thị viền ở người chơi
