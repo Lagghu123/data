@@ -27,3 +27,11 @@ Tóm lại, nếu bạn đã quá mệt mỏi với việc dành hàng giờ ch�
 
 ![1000401273.gif](https://i.ibb.co/VcS89N5D/1000401273.gif)
 
+
+
+- addon đào mỏ MCPE
+- Tool Miner Minecraft Bedrock
+- addon khai thác tài nguyên nhanh
+- Vein miner cho Minecraft PE
+- Minecraft PE auto mine addon
+
